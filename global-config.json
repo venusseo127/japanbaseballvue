@@ -1,0 +1,11 @@
+{
+  "FIREBASE_PROJECT": "production",
+  "GLOBAL_QUANTIFIED_DEAL_TYPES": [
+    "555",
+    "666",
+    "777"
+  ],
+  "GLOBAL_LIMITED_DEAL_TYPES": [
+    "666"
+  ]
+}

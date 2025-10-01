@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "pilaludere-staging",
+    "production": "pilaludere"
+  }
+}
